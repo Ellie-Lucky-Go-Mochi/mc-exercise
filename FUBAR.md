@@ -1,1 +1,1 @@
-bob and carol working on carol's computer. 
+bob and carol working on carol's computer. i added up some work on fubar.
