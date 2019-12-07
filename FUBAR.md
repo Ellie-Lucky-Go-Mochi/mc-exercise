@@ -1,6 +1,9 @@
+exercise1
+bob and carol working on carol's computer. i added up some work on fubar.
 *This is Ted and Alice working on Ted's computer!! This is our first time*
 
 And it is really sad that I cann not remember markdown.
-
+ted and alice are a better team than the other team! we are number 1!
 Bob and Carol second attempt!!!!!!! :)
 
+master
